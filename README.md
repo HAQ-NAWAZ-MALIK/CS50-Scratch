@@ -1,4 +1,4 @@
-![CS50Certificate!](CS50-S-Certificate.png)
+![CS50CertificateC](CS50Certificate!.png)
 
 
 # CS50S
