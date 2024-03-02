@@ -1,16 +1,10 @@
-![CS50 Scratch](https://github.com/abidsaem/CS50-Scratch-Solutions/assets/158012888/300f5182-ccee-4cf5-a8bf-bb36ee18da06)
+![CS50Certificate!](CS50-S-Certificate.png)
 
 
 # CS50S
 
 >This is CS50's Introduction to Programming with Scratch
 
-Disclaimer
-----------
+![50!](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*IYCifTCCR2ah-79u94Z3wg.png)
 
->❗ The following codes are for educational purpose only and not intended to be used / submitted as your own solutions.
->❗ Cheating violates the [Academic Honesty](https://cs50.harvard.edu/scratch/2024/honesty/) of the course, not to mention it's totally pointless if you actually want to learn programming.
-
-
-
-[Take The Course Here](https://cs50.harvard.edu/scratch/2024/)
+*Please note that this repository is for storing my projects and files from Harvard University's CS50x course. It is not meant for sharing answers or encouraging academic dishonesty. If you are currently enrolled, please complete the assignments independently and refer to the course materials.*
